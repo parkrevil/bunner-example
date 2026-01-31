@@ -19,8 +19,8 @@
     "@bunner/scalar": "github:parkrevil/bunner-scalar#main"
   },
   "devDependencies": {
-    "@bunner/firebat": "github:parkrevil/bunner-firebat#main",
-    "@bunner/oxlint-plugin": "github:parkrevil/bunner-oxlint-plugin#main",
+    "@bunner/firebat": "github:parkrevil/bunner-firebat#270ef0e023dd4ec034ce685ad91ac732aa3ad2a9",
+    "@bunner/oxlint-plugin": "github:parkrevil/bunner-oxlint-plugin#d64c8ed0fc306e0627944ed4dcf61bb015e0481e",
     "@bunner/cli": "github:parkrevil/bunner-cli#main",
     "@types/bun": "^1.3.0",
     "oxfmt": "^0.26.0",
